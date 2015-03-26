@@ -14,6 +14,11 @@ Make it clear that your products are digital and will be downloaded, not physica
 
 Also supports the Recurring Payments extension for Easy Digital Downloads. When enabled, you can also mark items as [subscription] or any other term to signify this is a recurring payment.
 
+== Screenshots ==
+1. Adds a badge to the title when flagged as 'Digital'
+2. The Settings Screen, show integration with the Recurring Payments Extension enabled
+3. Cart View
+
 == Changelog ==
 = 1.0 =
 * NEW: Initial Release
