@@ -6,7 +6,7 @@ Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
 
-Allow a product to be marked as Digital and have a badge after it's title to indicate as such.
+Allow a product to be marked as Digital and have a badge after its title to indicate as such.
 
 == Description ==
 
